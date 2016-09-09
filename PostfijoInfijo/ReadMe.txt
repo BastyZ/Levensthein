@@ -1,0 +1,1 @@
+Los archivos java van en la carpeta src, esto es para que al momento de copiarlos el archivo 'test.txt' quede en la raiz del package, aunque esto no es relevante para el funcionamiento correcto del programa.
